@@ -1,0 +1,153 @@
+,Price in €,Airline,Duration (hours),Stops,Layover_place,Layover_time,Departure_time,Arrival_time,Website,ID
+0,92,Scandinavian Airlines,8.83,1,CPH,3t 15m,10:05,17:55,Kayak,0
+1,87,"Norwegian, Ryanair",7.08,1,ARN,1t 40m,09:15,15:20,Kayak,1
+2,57,Ryanair,22.67,1,STN,16t 35,22:10,19:50+1,Kayak,2
+3,248,Norwegian,4.75,0,,,12:00,15:45,Kayak,3
+4,82,Scandinavian Airlines,8.83,1,CPH,3t 15m,10:05,17:55,Kayak,4
+5,93,Scandinavian Airlines,8.17,1,ARN,2t 45m,10:15,17:25,Kayak,5
+6,76,"Norwegian, Ryanair",8.67,1,ARN,3t 05m,07:40,15:20,Kayak,6
+7,272,Finnair,4.75,0,,,06:30,10:15,Kayak,7
+8,113,"Finnair, Norwegian",6.75,1,ARN,1t 25m,12:35,18:20,Kayak,8
+9,86,Norwegian,10.08,1,ARN,4t 45m,09:15,18:20,Kayak,9
+10,76,Norwegian,11.67,1,ARN,6t 10m,07:40,18:20,Kayak,10
+11,161,Air France,7.0,1,CDG,1t 10m,17:40,23:40,Kayak,11
+12,62,Ryanair,13.92,1,STN,7t 55m,22:10,11:05+1,Kayak,12
+13,121,"Finnair, Ryanair",8.0,1,ARN,2t 30m,08:20,15:20,Kayak,13
+14,73,Ryanair,11.5,1,BGY,5t 40m,11:10,21:40,Kayak,14
+15,104,Norwegian,10.33,1,OSL,4t 30m,14:10,23:30,Kayak,15
+16,132,"Finnair, Vueling",7.42,1,BCN,1t 50m,17:05,23:30,Kayak,16
+17,131,"Finnair, Norwegian",8.25,1,CPH,2t 55m,11:45,19:00,Kayak,17
+18,110,Scandinavian Airlines,11.0,1,ARN,5t 30m,07:25,17:25,Kayak,18
+19,173,"Finnair, Ryanair",7.25,1,BER,1t 40m,17:25,23:40,Kayak,19
+20,139,"Scandinavian Airlines, Norwegian",9.08,1,ARN,3t 40m,10:15,18:20,Kayak,20
+21,77,"Ryanair, easyJet",14.25,1,STN-LGW,8t 15m,22:10,11:25+1,Kayak,21
+22,118,Scandinavian Airlines,12.42,1,CPH,6t 50m,06:30,17:55,Kayak,22
+23,187,"Braathens Regional Aviation, Norwegian",7.75,1,BMA-ARN,2t 15m,11:35,18:20,Kayak,23
+24,166,"Finnair, Ryanair",8.0,1,DUB,1t 50m,07:45,14:45,Kayak,24
+25,170,"Finnair, Norwegian",8.5,1,OSL,2t 40m,16:00,23:30,Kayak,25
+26,110,Scandinavian Airlines,14.92,1,ARN,9t 30m,20:25,10:20+1,Kayak,26
+27,163,"Finnair, Ryanair",9.17,1,PRG,3t 40m,06:20,14:30,Kayak,27
+28,118,"Norwegian, Ryanair",11.5,1,LGW-STN,5t 30m,09:50,20:20,Kayak,28
+29,188,"Finnair, Ryanair",8.25,1,AMS,2t 35m,16:20,23:35,Kayak,29
+30,126,"Norwegian, easyJet",11.08,1,LGW-LTN,5t 00m,09:50,19:55,Kayak,30
+31,223,"Finnair, Norwegian",8.25,1,GOT,2t 20m,16:15,23:30,Kayak,31
+32,141,"Finnair, Scandinavian Airlines",11.67,1,ARN,6t 05m,23:40,10:20+1,Kayak,32
+33,110,"Norwegian, Vueling",14.58,1,LGW,8t 40m,09:50,23:25,Kayak,33
+34,155,"Finnair, Vueling",10.42,1,LHR-LGW,4t 25m,14:00,23:25,Kayak,34
+35,166,"KLM, Ryanair",10.67,1,AMS,5t 05m,13:55,23:35,Kayak,35
+36,118,"Finnair, Vueling",13.75,1,CDG-ORY,8t 05m,20:30,09:15+1,Kayak,36
+37,63,"Ryanair, Vueling",16.33,1,STN-LGW,10t 20,22:10,13:30+1,Kayak,37
+38,318,Lufthansa,10.08,1,FRA,4t 10m,07:05,16:10,Kayak,38
+39,262,British Airways,12.5,1,LHR-LGW,6t 20m,07:50,19:20,Kayak,39
+40,177,"Finnair, CitizenPlane",13.75,1,CDG-ORY,8t 05m,20:30,09:15+1,Kayak,40
+41,173,"Finnair, Ryanair",13.33,1,BER,7t 45m,11:20,23:40,Kayak,41
+42,327,KLM,9.83,1,AMS,4t 10m,10:40,19:30,Kayak,42
+43,129,"Finnair, Vueling",16.42,1,BCN,10t 45,17:05,08:30+1,Kayak,43
+44,192,"Finnair, Iberia",16.83,1,MAD,11t 10,16:50,08:40+1,Kayak,44
+45,110,Scandinavian Airlines,18.92,1,ARN,13t 25,16:25,10:20+1,Kayak,45
+46,163,"Finnair, British Airways",17.08,1,LHR-LGW,11t 10,19:35,11:40+1,Kayak,46
+47,113,"Finnair, Ryanair",16.92,1,CPH,11t 30,22:45,14:40+1,Kayak,47
+48,327,"Finnair, British Airways",12.5,1,LHR-LGW,6t 20m,07:50,19:20,Kayak,48
+49,187,"Finnair, Air Europa",15.92,1,MAD,10t 20,16:50,07:45+1,Kayak,49
+50,220,British Airways,17.08,1,LHR-LGW,11t 10,19:35,11:40+1,Kayak,50
+51,244,KLM,16.67,1,AMS,11t 00,18:10,09:50+1,Kayak,51
+52,173,"KLM, Transavia",16.67,1,AMS,11t 00,18:10,09:50+1,Kayak,52
+53,174,"KLM, Vueling",17.17,1,AMS,11t 25,18:10,10:20+1,Kayak,53
+54,121,"Finnair, easyJet",19.5,1,MXP,13t 45,16:00,10:30+1,Kayak,54
+55,244,Turkish Airlines,17.67,1,IST,9t 10m,18:50,11:30+1,Kayak,55
+56,110,Scandinavian Airlines,21.83,1,ARN,16t 25,13:30,10:20+1,Kayak,56
+57,335,KLM,13.5,1,AMS,7t 45m,07:00,19:30,Kayak,57
+58,128,Norwegian,22.08,1,OSL,16t 15,14:10,11:15+1,Kayak,58
+59,277,British Airways,17.17,1,LHR,11t 05,19:35,11:45+1,Kayak,59
+60,87,Norwegian,0.25,1,ARN,18t 55,19:45,19:00+1,Kayak,60
+61,192,Lufthansa,20.92,1,MUC,15t 05,19:25,15:20+1,Kayak,61
+62,151,Turkish Airlines,22.67,1,IST,14t 10,18:50,16:30+1,Kayak,62
+63,122,"Finnair, Norwegian",20.33,1,ARN,14t 45,23:40,19:00+1,Kayak,63
+64,119,Scandinavian Airlines,0.33,1,CPH,18t 45,18:20,17:40+1,Kayak,64
+65,253,Air France,18.17,1,CDG,12t 15,06:30,23:40,Kayak,65
+66,490,Lufthansa,9.33,1,MUC,3t 30m,07:00,15:20,Kayak,66
+67,64,"Ryanair, easyJet",0.33,1,BGY-MXP,18t 25,11:10,10:30+1,Kayak,67
+68,167,"Finnair, Air France",21.25,1,CDG,15t 30,20:30,16:45+1,Kayak,68
+69,595,Air France,6.67,1,CDG,0t 45m,06:30,12:10,Kayak,69
+70,111,Scandinavian Airlines,1.08,1,ARN,19t 40,10:15,10:20+1,Kayak,70
+71,341,Iberia,16.83,1,MAD,11t 10,16:50,08:40+1,Kayak,71
+72,87,Norwegian,3.33,1,ARN,22t 00,16:40,19:00+1,Kayak,72
+73,294,British Airways,20.67,1,LHR-LGW,14t 50,16:00,11:40+1,Kayak,73
+74,327,Air France,19.5,1,CDG,13t 40,17:40,12:10+1,Kayak,74
+75,237,Lufthansa,23.25,1,FRA,17t 20,17:40,15:55+1,Kayak,75
+76,92,Scandinavian Airlines,8.83,1,CPH,3t 15m,10:05,17:55,Momondo,76
+77,87,"Norwegian, Ryanair",7.08,1,ARN,1t 40m,09:15,15:20,Momondo,77
+78,57,Ryanair,22.67,1,STN,16t 35,22:10,19:50+1,Momondo,78
+79,248,Norwegian,4.75,0,,,12:00,15:45,Momondo,79
+80,82,Scandinavian Airlines,8.83,1,CPH,3t 15m,10:05,17:55,Momondo,80
+81,93,Scandinavian Airlines,8.17,1,ARN,2t 45m,10:15,17:25,Momondo,81
+82,76,"Norwegian, Ryanair",8.67,1,ARN,3t 05m,07:40,15:20,Momondo,82
+83,280,Finnair,4.75,0,,,06:30,10:15,Momondo,83
+84,113,"Finnair, Norwegian",6.75,1,ARN,1t 25m,12:35,18:20,Momondo,84
+85,86,Norwegian,10.08,1,ARN,4t 45m,09:15,18:20,Momondo,85
+86,76,Norwegian,11.67,1,ARN,6t 10m,07:40,18:20,Momondo,86
+87,161,Air France,7.0,1,CDG,1t 10m,17:40,23:40,Momondo,87
+88,62,Ryanair,13.92,1,STN,7t 55m,22:10,11:05+1,Momondo,88
+89,120,"Finnair, Ryanair",8.0,1,ARN,2t 30m,08:20,15:20,Momondo,89
+90,73,Ryanair,11.5,1,BGY,5t 40m,11:10,21:40,Momondo,90
+91,104,Norwegian,10.33,1,OSL,4t 30m,14:10,23:30,Momondo,91
+92,132,"Finnair, Vueling",7.42,1,BCN,1t 50m,17:05,23:30,Momondo,92
+93,130,"Finnair, Norwegian",8.25,1,CPH,2t 55m,11:45,19:00,Momondo,93
+94,110,Scandinavian Airlines,11.0,1,ARN,5t 30m,07:25,17:25,Momondo,94
+95,173,"Finnair, Ryanair",7.25,1,BER,1t 40m,17:25,23:40,Momondo,95
+96,139,"Scandinavian Airlines, Norwegian",9.08,1,ARN,3t 40m,10:15,18:20,Momondo,96
+97,203,"KLM, Transavia",6.58,1,AMS,1t 00m,13:55,19:30,Momondo,97
+98,77,"Ryanair, easyJet",14.25,1,STN-LGW,8t 15m,22:10,11:25+1,Momondo,98
+99,196,"Finnair, Scandinavian Airlines",7.17,1,CPH,1t 40m,11:45,17:55,Momondo,99
+100,118,Scandinavian Airlines,12.42,1,CPH,6t 50m,06:30,17:55,Momondo,100
+101,168,"Finnair, Norwegian",8.5,1,OSL,2t 40m,16:00,23:30,Momondo,101
+102,110,Scandinavian Airlines,14.92,1,ARN,9t 30m,20:25,10:20+1,Momondo,102
+103,162,"Finnair, Ryanair",9.17,1,PRG,3t 40m,06:20,14:30,Momondo,103
+104,118,"Norwegian, Ryanair",11.5,1,LGW-STN,5t 30m,09:50,20:20,Momondo,104
+105,187,"Finnair, Ryanair",8.25,1,AMS,2t 35m,16:20,23:35,Momondo,105
+106,126,"Norwegian, easyJet",11.08,1,LGW-LTN,5t 00m,09:50,19:55,Momondo,106
+107,254,"Finnair, SWISS",6.75,1,GVA,1t 10m,07:55,13:40,Momondo,107
+108,139,"Finnair, Scandinavian Airlines",11.67,1,ARN,6t 05m,23:40,10:20+1,Momondo,108
+109,110,"Norwegian, Vueling",14.58,1,LGW,8t 40m,09:50,23:25,Momondo,109
+110,223,"Finnair, Norwegian",8.25,1,GOT,2t 20m,16:15,23:30,Momondo,110
+111,155,"Finnair, Vueling",10.42,1,LHR-LGW,4t 25m,14:00,23:25,Momondo,111
+112,166,"KLM, Ryanair",10.67,1,AMS,5t 05m,13:55,23:35,Momondo,112
+113,63,"Ryanair, Vueling",16.33,1,STN-LGW,10t 20,22:10,13:30+1,Momondo,113
+114,177,"Finnair, CitizenPlane",13.75,1,CDG-ORY,8t 05m,20:30,09:15+1,Momondo,114
+115,173,"Finnair, Ryanair",13.33,1,BER,7t 45m,11:20,23:40,Momondo,115
+116,262,British Airways,12.5,1,LHR,6t 20m,07:50,19:20,Momondo,116
+117,129,"Finnair, Vueling",16.42,1,BCN,10t 45,17:05,08:30+1,Momondo,117
+118,110,Scandinavian Airlines,18.92,1,ARN,13t 25,16:25,10:20+1,Momondo,118
+119,318,Lufthansa,10.08,1,FRA,4t 10m,07:05,16:10,Momondo,119
+120,328,KLM,9.83,1,AMS,4t 10m,10:40,19:30,Momondo,120
+121,113,"Finnair, Ryanair",16.92,1,CPH,11t 30,22:45,14:40+1,Momondo,121
+122,163,"Finnair, British Airways",17.08,1,LHR-LGW,11t 10,19:35,11:40+1,Momondo,122
+123,200,"Finnair, Iberia",16.83,1,MAD,11t 10,16:50,08:40+1,Momondo,123
+124,198,"Finnair, British Airways",17.17,1,LHR,11t 05,19:35,11:45+1,Momondo,124
+125,305,"Finnair, Czech Airlines",12.08,1,PRG,6t 25m,09:40,20:45,Momondo,125
+126,220,British Airways,17.08,1,LHR,11t 10,19:35,11:40+1,Momondo,126
+127,228,"Finnair, Czech Airlines",15.42,1,PRG,9t 50m,06:20,20:45,Momondo,127
+128,244,KLM,16.67,1,AMS,11t 00,18:10,09:50+1,Momondo,128
+129,173,"KLM, Transavia",16.67,1,AMS,11t 00,18:10,09:50+1,Momondo,129
+130,110,Scandinavian Airlines,21.83,1,ARN,16t 25,13:30,10:20+1,Momondo,130
+131,174,"KLM, Vueling",17.17,1,AMS,11t 25,18:10,10:20+1,Momondo,131
+132,121,"Finnair, easyJet",19.5,1,MXP,13t 45,16:00,10:30+1,Momondo,132
+133,244,Turkish Airlines,17.67,1,IST,9t 10m,18:50,11:30+1,Momondo,133
+134,128,Norwegian,22.08,1,OSL,16t 15,14:10,11:15+1,Momondo,134
+135,122,"Finnair, Norwegian",20.33,1,ARN,14t 45,23:40,19:00+1,Momondo,135
+136,335,KLM,13.5,1,AMS,7t 45m,07:00,19:30,Momondo,136
+137,277,British Airways,17.17,1,LHR,11t 05,19:35,11:45+1,Momondo,137
+138,87,Norwegian,0.25,1,ARN,18t 55,19:45,19:00+1,Momondo,138
+139,151,Turkish Airlines,22.67,1,IST,14t 10,18:50,16:30+1,Momondo,139
+140,67,"Ryanair, easyJet",0.33,1,BGY-MXP,18t 25,11:10,10:30+1,Momondo,140
+141,119,Scandinavian Airlines,0.33,1,CPH,18t 45,18:20,17:40+1,Momondo,141
+142,253,Air France,18.17,1,CDG,12t 15,06:30,23:40,Momondo,142
+143,192,Lufthansa,20.92,1,MUC,15t 05,19:25,15:20+1,Momondo,143
+144,111,Scandinavian Airlines,1.08,1,ARN,19t 40,10:15,10:20+1,Momondo,144
+145,490,Lufthansa,9.33,1,MUC,3t 30m,07:00,15:20,Momondo,145
+146,167,"Finnair, Air France",21.25,1,CDG,15t 30,20:30,16:45+1,Momondo,146
+147,341,Iberia,16.83,1,MAD,11t 10,16:50,08:40+1,Momondo,147
+148,303,"Finnair, Air France",16.67,1,CDG,11t 05,20:30,12:10+1,Momondo,148
+149,596,Air France,6.67,1,CDG,0t 45m,06:30,12:10,Momondo,149
+150,87,Norwegian,3.33,1,ARN,22t 00,16:40,19:00+1,Momondo,150
+151,199,Air France,0.08,1,CDG,18t 05,17:40,16:45+1,Momondo,151

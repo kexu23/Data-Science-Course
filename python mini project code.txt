@@ -1,0 +1,144 @@
+	
+
+
+Hi, I thought this could be useful to someone
+
+---
+
+ 
+
+!pip install selenium
+
+!pip install selenium-stealth
+
+# install chromium-chromedriver (these commands are for ubuntu)
+
+!apt-get update 
+
+!apt install chromium-chromedriver
+
+
+
+ 
+
+---
+
+
+
+from selenium import webdriver
+
+from selenium.webdriver.common.by import By
+
+from time import sleep
+
+
+
+chrome_options = webdriver.ChromeOptions()
+
+# google colab allows only headless mode => no gui
+
+# disable this locally if you want to see the browser window
+
+chrome_options.add_argument('--headless')
+
+# set window size, click() does not work if window has no size
+
+chrome_options.add_argument('--window-size=1920,1080')
+
+# other options, might not be needed
+
+chrome_options.add_argument('--no-sandbox')
+
+chrome_options.add_argument('--disable-dev-shm-usage')
+
+chrome_options.add_argument('--enable-javascript')
+
+
+
+driver = webdriver.Chrome(options=chrome_options)
+
+
+
+# spoof the user agent, might get around the bot detection
+
+stealth(driver,
+
+languages=["en-US", "en"],
+
+vendor="Google Inc.",
+
+platform="Win32",
+
+webgl_vendor="Intel Inc.",
+
+renderer="Intel Iris OpenGL Engine",
+
+fix_hairline=True,
+
+)
+
+
+
+url = "https://flighs.yeah.com/..."
+
+driver.get(url)
+
+
+
+# wait for the page and javascript to load
+
+# set this to a higher value if you want to open the browser window (locally, not on google colab) and use the Inspect to look for elements to scrap
+
+sleep(10)
+
+
+
+# some pages might show a cookie banner, click it away
+
+# use ".class", "[data-attribute='value']" syntax
+
+# the click() on e.g. load more button might not work if the cookie banner is in the way
+
+# find_element throws an exception if the element is not found
+
+# click() might throw an exception if the element is not clickable (e.g. cookie banner is in the way)
+
+driver.find_element(By.CSS_SELECTOR, "[data-test-cookies-reject]").click()
+
+
+
+# one way to click the load more button until it is not present on the page
+
+while True:
+
+try:
+
+driver.find_element(By.CSS_SELECTOR, ".gimme-more-flights").click()
+
+sleep(2)
+
+except:
+
+break
+
+
+
+# save the html to file
+
+# do not fetch fresh data every time you test your code, this is how you get captcha prompts
+
+with open('source.html', 'w') as f:
+
+f.write(driver.page_source)
+
+
+
+# close the browser
+
+driver.close()
+
+ 
+
+---
+
+open the saved file and get to work :)
